@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580984388688.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2942678727",
+    "id" : "30A3BC8C",
+    "lastKnownWriteTime" : 1580990261,
+    "last_content_update" : 1580990261714,
+    "path" : "~/UbiqumR/Exercises/Exercises/Medidas-tendencia-central/Medidas-tendencia-central.R",
+    "project_path" : "Medidas-tendencia-central/Medidas-tendencia-central.R",
+    "properties" : {
+        "cursorPosition" : "32,0",
+        "scrollLine" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

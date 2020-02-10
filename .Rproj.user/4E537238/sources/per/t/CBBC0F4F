@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580740071452.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1670225115",
+    "id" : "CBBC0F4F",
+    "lastKnownWriteTime" : 1580742389,
+    "last_content_update" : 1580742389301,
+    "path" : "~/UbiqumR/Exercises/Exercises/Frequencias/Frequencias.R",
+    "project_path" : "Frequencias/Frequencias.R",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
